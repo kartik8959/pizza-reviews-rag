@@ -1,5 +1,5 @@
 # 🍕 Pizza Reviews 
-**A small retrieval-augmented generation (RAG) demo that answers questions about a pizza restaurant using real customer reviews.**
+**A small retrieval-augmented generation (RAG) that answers questions about a pizza restaurant using real customer reviews.**
 
 ---
 
